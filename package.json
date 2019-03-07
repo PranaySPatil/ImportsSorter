@@ -2,7 +2,7 @@
 	"name": "importssorter",
 	"displayName": "ImportsSorter",
 	"description": "It sorts the imports (read the name!)",
-	"publisher": "pranay",
+	"publisher": "PranayPatil",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.31.0"
